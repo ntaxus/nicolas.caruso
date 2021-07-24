@@ -2,11 +2,12 @@
 
 ---
 
-### Category Name 1 
-
-[Descriptive analysis and basic inferential statistics example with R (in Spanish)](/pdf/ncaruso_PEC2.pdf)
+### Descriptive and basic inference statistics
+An example with R based on Kaggle data (in Spanish)
+[Notebook](/pdf/ncaruso_PEC2.pdf)
 <img src="images/Ej1.png?raw=true"/>
 
+<!--
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -26,7 +27,7 @@
 - [Project 5 Title](http://example.com/)
 
 ---
-
+-->
 
 
 
