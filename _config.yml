@@ -14,7 +14,14 @@ description: > # your text below (remove <br> elements if you don't need line br
   and currently enrolled in a master's degree in Data Science at 
     <a href="https://estudios.uoc.edu/es/masters-universitarios/data-science/presentacion"> Universitat Oberta de Catalunya.</a> 
   <br><br>
-  I am currently working as Data Scientist at both private and public sector. 
+  With more than 5 year of experience in data analysis I am currently working as Data Scientist at both private and public sector.
+  <br><br> 
+  Skills: 
+  <ul>
+   <li>R</li>
+   <li>Python</li>
+   <li>SQL</li>
+  </ul>
   </p>
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
