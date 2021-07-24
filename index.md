@@ -4,9 +4,12 @@
 
 ### Descriptive and basic inference statistics
 An example with R based on 2017 FIFA players
+<p>
 <a href:"https://www.kaggle.com/artimous/complete-fifa-2017-player-dataset-global"> data </a> (in Spanish).
+</p>
 
-[Download notebook](/pdf/ncaruso_PEC2.pdf)
+[download notebook](/pdf/ncaruso_PEC2.pdf)
+<br></br>
 <img src="images/Ej1.png?raw=true"/>
 
 <!--
