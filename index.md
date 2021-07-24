@@ -4,10 +4,9 @@
 
 ### Descriptive and basic inference statistics
 An example of general descriptive plots and basic inference
-using R and based on 2017 FIFA players [data](https://www.kaggle.com/artimous/complete-fifa-2017-player-dataset-global)
-(in Spanish).
+using R and based on 2017 FIFA players [data](https://www.kaggle.com/artimous/complete-fifa-2017-player-dataset-global).
 
-[see notebook](/pdf/ncaruso_PEC2.pdf)
+[see notebook](/pdf/ncaruso_PEC2.pdf) (in Spanish)
 <img src="images/Ej1.png?raw=true"/>
 
 <!--
