@@ -3,8 +3,10 @@
 ---
 
 ### Descriptive and basic inference statistics
-An example with R based on Kaggle data (in Spanish)
-[Notebook](/pdf/ncaruso_PEC2.pdf)
+An example with R based on 2017 FIFA players
+<a href:"https://www.kaggle.com/artimous/complete-fifa-2017-player-dataset-global"> data </a> (in Spanish).
+
+[Download notebook](/pdf/ncaruso_PEC2.pdf)
 <img src="images/Ej1.png?raw=true"/>
 
 <!--
