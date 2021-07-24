@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Descriptive analysis and basic inferential statistics example with R (in Spanish)](/pdf/ncaruso_PEC2.pdf)
+<img src="images/Ej1.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
