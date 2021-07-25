@@ -17,7 +17,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   With more than 5 year of experience in data analysis I am currently working as Data Scientist at both private and public sector.
   <br><br> 
   
-    <!DOCTYPE html>
+  <!DOCTYPE html>
   <html>
   <head>
     <style>
@@ -47,7 +47,7 @@ description: > # your text below (remove <br> elements if you don't need line br
         .php {
             width: 60%;
         }
-    </style>
+  </style>
   </head>
   <body>
     <h1>My Skills</h1>
