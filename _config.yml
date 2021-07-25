@@ -54,7 +54,7 @@ description: > # your text below (remove <br> elements if you don't need line br
       </style>
   </head>
   <body>
-      <p style="line-height:1">R</p>
+      <p style="margin-bottom:0%">R</p>
       <div class="container">
           <div class="skill R">80%</div>
       </div>
@@ -64,7 +64,7 @@ description: > # your text below (remove <br> elements if you don't need line br
           <div class="skill python">70%</div>
       </div>
 
-      <p style="line-height:1">SQL</p>
+      <p style="margin-bottom:0%">SQL</p>
       <div class="container">
           <div class="skill SQL">60%</div>
       </div>
