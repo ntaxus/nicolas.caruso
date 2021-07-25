@@ -23,7 +23,7 @@ description: > # your text below (remove <br> elements if you don't need line br
       <style>
           p {
               font-size: 15px;
-              line-height: 0;
+              line-height: 0.5;
           }
 
           .container {
