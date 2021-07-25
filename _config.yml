@@ -75,7 +75,7 @@ description: > # your text below (remove <br> elements if you don't need line br
       
       <p style="margin-bottom:0%; margin-top:2%">java</p>
       <div class="container">
-          <div class="skill java">60%</div>
+          <div class="skill java">50%</div>
       </div>
   </body>
   </html>
