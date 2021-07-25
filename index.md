@@ -17,6 +17,14 @@ An example of clustering analysis and classification using desition trees in R a
 [see notebook](/pdf/Nicolas_Caruso_R.html) (in Spanish)
 <img src="images/Ej2.png?raw=true"/>
 
+---
+
+### Visualization
+An example of different visualizations using Python. 
+
+[see notebook](/pdf/Nicolas_Caruso_python.html) (in Spanish)
+<img src="images/Ej3.png?raw=true"/>
+
 <!--
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
