@@ -54,17 +54,17 @@ description: > # your text below (remove <br> elements if you don't need line br
       </style>
   </head>
   <body>
-      <p style="margin-bottom:0%">R</p>
+      <p style="margin-bottom:0%; margin-top:2%">R</p>
       <div class="container">
           <div class="skill R">80%</div>
       </div>
 
-      <p style="margin-bottom:0%">Python</p>
+      <p style="margin-bottom:0%; margin-top:2%">Python</p>
       <div class="container">
           <div class="skill python">70%</div>
       </div>
 
-      <p style="margin-bottom:0%">SQL</p>
+      <p style="margin-bottom:0%; margin-top:2%">SQL</p>
       <div class="container">
           <div class="skill SQL">60%</div>
       </div>
