@@ -60,12 +60,12 @@ description: > # your text below (remove <br> elements if you don't need line br
           <div class="skill R">80%</div>
       </div>
 
-      <p>Python</p>
+      <p style="line-height:0">Python</p>
       <div class="container">
           <div class="skill python">70%</div>
       </div>
 
-      <p>SQL</p>
+      <p style="line-height:0">SQL</p>
       <div class="container">
           <div class="skill SQL">60%</div>
       </div>
