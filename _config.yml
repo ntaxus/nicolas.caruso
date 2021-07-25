@@ -23,7 +23,6 @@ description: > # your text below (remove <br> elements if you don't need line br
       <style>
           p {
               font-size: 15px;
-              line-height: 0.5;
           }
 
           .container {
@@ -35,7 +34,7 @@ description: > # your text below (remove <br> elements if you don't need line br
           .skill {
               background-color: rgb(116, 194, 92);
               color: white;
-              padding: 0.5%;
+              padding: 0.2%;
               text-align: right;
               font-size: 15px;
                   border-radius: 15px;
