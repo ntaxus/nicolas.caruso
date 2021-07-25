@@ -22,7 +22,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <head>
     <style>
         p {
-            font-size: 10px;
+            font-size: 15px;
         }
       
         .container {
@@ -36,8 +36,8 @@ description: > # your text below (remove <br> elements if you don't need line br
             color: white;
             padding: 1%;
             text-align: right;
-            font-size: 15px;
-                border-radius: 15px;
+            font-size: 5px;
+                border-radius: 5px;
         }
       
         .html {
