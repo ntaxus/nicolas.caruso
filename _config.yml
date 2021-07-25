@@ -21,7 +21,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <head>
       <style>
           p {
-              font-size: 10px;
+              font-size: 15px;
               
           }
 
