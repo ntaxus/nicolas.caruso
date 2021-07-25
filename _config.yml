@@ -15,7 +15,7 @@ description: > # your text below (remove <br> elements if you don't need line br
     <a href="https://estudios.uoc.edu/es/masters-universitarios/data-science/presentacion"> Universitat Oberta de Catalunya.</a> 
   <br><br>
   With more than 5 year of experience in data analysis I am currently working as Data Scientist at both private and public sector.
-  <br><br> 
+
 
   <html>
   <head>
@@ -49,7 +49,11 @@ description: > # your text below (remove <br> elements if you don't need line br
           }
 
           .SQL {
-              width: 60%;
+              width: 70%;
+          }
+          
+          .java {
+              width: 50%;
           }
       </style>
   </head>
@@ -67,6 +71,11 @@ description: > # your text below (remove <br> elements if you don't need line br
       <p style="margin-bottom:0%; margin-top:2%">SQL</p>
       <div class="container">
           <div class="skill SQL">60%</div>
+      </div>
+      
+      <p style="margin-bottom:0%; margin-top:2%">java</p>
+      <div class="container">
+          <div class="skill java">60%</div>
       </div>
   </body>
   </html>
