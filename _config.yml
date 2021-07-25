@@ -1,7 +1,7 @@
 title: <p align="center"> Nicolas C. Caruso</p> # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <p align="center">  
+  <p align="center" style="line-height:1.5">  
     <a href="https://www.linkedin.com/in/nicol%C3%A1s-caruso-2a3795156/">LinkedIn </a>
      | 
     <a href="https://www.researchgate.net/profile/Nicolas-Caruso-2"> ResearchGate </a>
