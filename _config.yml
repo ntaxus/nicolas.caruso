@@ -55,7 +55,7 @@ description: > # your text below (remove <br> elements if you don't need line br
       </style>
   </head>
   <body>
-      <p>R</p>
+      <p style="line-height:0">R</p>
       <div class="container">
           <div class="skill R">80%</div>
       </div>
