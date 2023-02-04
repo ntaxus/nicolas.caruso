@@ -12,7 +12,7 @@ using R and based on 2017 FIFA players [data](https://www.kaggle.com/artimous/co
 ---
 
 ### Clustering and classification
-An example of clustering analysis and classification using desition trees in R and based on cardiotocography [data](https://archive.ics.uci.edu/ml/datasets/cardiotocography).
+An example of clustering analysis and classification using decision trees in R and based on cardiotocography [data](https://archive.ics.uci.edu/ml/datasets/cardiotocography).
 
 [see notebook](/pdf/Nicolas_Caruso_R.html) (in Spanish)
 <img src="images/Ej2.png?raw=true"/>
